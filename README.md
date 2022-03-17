@@ -10,6 +10,8 @@
   ```bash
   ruby -v
   ```
+  If you need to install Ruby click the link below:
+    [Ruby Install](https://www.ruby-lang.org/en/documentation/installation/)
 
 ## Requirements
 
