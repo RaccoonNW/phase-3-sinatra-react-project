@@ -3,7 +3,7 @@
 ## Description
 
 - This application displays a list of movie tiles to the user. These movie tiles contain information about the movie such as genre and any roles that it may have. There are features that will allow a user to display, edit, delete, or add roles to an individual movie.
-- ![Load Page](/Screen%20Shot%202022-03-06%20at%204.18.03%20PM.png)
+  ![Load Page](/Screen%20Shot%202022-03-06%20at%204.18.03%20PM.png)
 
 ## Usage
 - This project was created to supply a functional API with multiple routes for a React front end application.
