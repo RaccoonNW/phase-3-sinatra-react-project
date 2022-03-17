@@ -1,4 +1,4 @@
-# Phase 3 Project Sinatra/React
+# Phase 3 Project Sinatra
 
 ## Description
 
@@ -12,6 +12,14 @@
   ```
   If you need to install Ruby click the link below:
     [Ruby Install](https://www.ruby-lang.org/en/documentation/installation/)
+
+#### Required Gems
+- gem "activerecord", "~> 6.1"
+- gem "sinatra-activerecord", "~> 2.0"
+- gem "rack-cors", "~> 1.1"
+- gem "sinatra", "~> 2.1"
+
+These and more Gems can be found by following this link: [Ruby Gems](https://rubygems.org)
 
 ## Requirements
 
