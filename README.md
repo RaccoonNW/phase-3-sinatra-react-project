@@ -1,8 +1,12 @@
-# Phase 3 Project Sinatra
+# Phase 3 Project Backend
 
 ## Description
 
 - This application displays a list of movie tiles to the user. These movie tiles contain information about the movie such as genre and any roles that it may have. There are features that will allow a user to display, edit, delete, or add roles to an individual movie.
+- ![Load Page](Screen Shot 2022-03-06 at 4.18.03 PM.png)
+
+## Usage
+- This project was created to supply a functional API with multiple routes for a React front end application.
 
 ## Project Status
 - This project is no longer being developed. 
@@ -27,6 +31,9 @@ These and more Gems can be found by following this link: [Ruby Gems](https://rub
 ## Contributing
 - This project is open to interested contributors. 
 - There are no explicit variables that need to be taken into account aside from the required gems and environment setup listed above.
+
+## Support
+- This project is no longer under development and is no longer maintained - There are no support resources.
 
 
 ## Resources
